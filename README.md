@@ -2,6 +2,7 @@
 - 👀 I’m interested in Data Analysis & Visualization
 - 🌱 I’m currently fine tuning my SQL & R skills whilst learning Python.
 - 💞️ I’m looking to collaborate on any Data Analytics Project.
+- 📊 Here’s the link to my Tableau Portfolio: https://public.tableau.com/app/profile/ekpenyong.effiong
 - 📫 You can send me an email @ eric.efiong@gmail.com
 
 <!---
