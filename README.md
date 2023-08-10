@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Ekpenyong Effiong also known as Daviruz which when spelt backwards is my Github Username 😁
-- 👀 I’m into Data Analysis, Business Analysis & Visualization.
-- 🌱 I’m currently fine tuning my SQL & R skills whilst learning Python.
-- 💞️ I’m looking to collaborate on any Data Analytics Project & take up a Data Analyst role.
+- 👋 Hi, I’m Ekpenyong Effiong.
+- 👀 I’m into Data Analysis, Business Analysis & Visualisation.
+- 🌱 I’m fine-tuning my SQL & R skills while learning Python.
+- 💞️ I’m open to a Data Analyst role & happy to collaborate on any Data Analytics Project.
 - 📊 Here’s the link to my Tableau Portfolio: https://public.tableau.com/app/profile/ekpenyong.effiong
 - 📊 Here's the link to my Google Data Analytics Capstone Project: https://www.kaggle.com/datasets/zurivad/bellabeat-case-study
 - 📊 Some of my work has been featured in the newsletter, Notadeepdive. You can read the articles https://www.notadeepdive.com/p/myth-busters-are-nigerian-legacy & https://www.notadeepdive.com/p/nigerias-terminal-japa-wave?utm_campaign=post&utm_medium=web&utm_source=copy
